@@ -1,0 +1,2 @@
+﻿#Flutter project create via command
+Flutter create myfirstapp
